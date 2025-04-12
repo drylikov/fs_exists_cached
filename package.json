@@ -1,0 +1,24 @@
+{
+  "name": "fs_exists_cached",
+  "version": "1.0.0",
+  "description": "Just like `fs.exists` and `fs.existsSync`, but cached",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js --100"
+  },
+  "devDependencies": {
+    "tap": "9 || 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drylikov/fs_exists_cached.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drylikov/fs_exists_cached/issues"
+  },
+  "homepage": "https://github.com/drylikov/fs_exists_cached#readme",
+  "dependencies": {}
+}
